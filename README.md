@@ -1,1 +1,3 @@
-# PTradutor
+# Projeto Tradutor
+
+Professora Adekeila
